@@ -47,7 +47,7 @@ h1::after{
     content: ":";
     position: absolute;
     margin-left: 40px;
-    margin-top: -35px;
+    margin-top: 35px;
     color: #1eff05;
 }
 h6{
