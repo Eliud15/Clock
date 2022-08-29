@@ -17,7 +17,7 @@ h1::after{
     content: "Colombia";
     position: absolute;
     margin-left: 30px;
-    margin-top: -20px;
+    margin-top: 0px;
     color: slateblue;
 }
 .container{
